@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: white;
+}
+
+.green-space{
+    background-color: #128C7E;
+    height: 20vh;
+}
+
+.text-center{
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+table{
+  border-collapse: collapse;  
+}
+
+table, th, td{
+    border: 1px solid black;
+}
